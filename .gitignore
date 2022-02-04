@@ -1,0 +1,5 @@
+# Ignore files
+.rubocop.yml
+*.md
+rubytest.rb
+.DS_Store
