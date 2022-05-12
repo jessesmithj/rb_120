@@ -15,4 +15,6 @@ class RoadTrip < Oracle
 end
 
 trip = RoadTrip.new
-trip.predict_the_future
+trip.predict_the_future # will print "You will" + one of the three strings from the choices method array (in Roadtrip class) at random
+
+
